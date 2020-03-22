@@ -1,32 +1,24 @@
-Grove – Serial MP3 Player V2.0
---------------------------------
+MP3-Modul
+----
+*(Seeed Studio Grove – Grove - MP3 v2.0)*
 
-<img src=https://statics3.seeedstudio.com/images/product/107020008%202.jpg width=300><img src=https://statics3.seeedstudio.com/product/107020008%202_02.jpg width=300>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/75_mp3_modul-1024x1024.jpg width=400px>
 
-[Grove - MP3 v2.0](https://www.seeedstudio.com/Grove-MP3-v2.0-p-2597.html)
+Das MP3-Modul ermöglicht das Abspielen von Musik oder abgespeicherten Tönen. Es integriert einen Steckplatz für eine Mikro-SD-Karte (bis maximal 8GB), auf der Musikdateien im mp3-, wav- oder wma-Format gespeichert werden können. Am eingebauten Klinkenstecker kann ein Lautsprecher oder Kopfhörer angeschlossen werden, um die Musik auszugeben.
 
-The MP3 chip of Grove-Serial MP3 Player V2.0 is different from Grove-Serial MP3 Player V1.0.
-Grove-Serial MP3 Player V2.0 is a kind of simple MP3 player device whose design is based on a high-quality MP3 audio chip---KT403A. 
-
-For more information please visit [wiki](http://wiki.seeedstudio.com/Grove-MP3_v2.0/).    
+Das Modul wird über die serielle Schnittstelle UART direkt
 
 ----
 
-This demo is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die Lizenzrechte (siehe License.txt) beachtet werden.
 
-Seeed Studio is an open hardware facilitation company based in Shenzhen, China. <br>
-Benefiting from local manufacture power and convenient global logistic system, <br>
-we integrate resources to serve new era of innovation. Seeed also works with <br>
-global distributors and partners to push open hardware movement.<br>
+**Weitere Informationen:**
 
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Serial_MP3_Player)](https://github.com/igrigorik/ga-beacon)
-
-
-
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
