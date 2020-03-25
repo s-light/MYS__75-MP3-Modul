@@ -22,3 +22,4 @@ Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourscho
 [Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
 [Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
+
