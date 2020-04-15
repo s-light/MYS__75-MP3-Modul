@@ -4,6 +4,8 @@ MP3-Modul
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/75_mp3_modul-1024x1024.jpg width=400px>
 
+Bildquelle: *Wissenschaft im Dialog*
+
 Das MP3-Modul ermöglicht das Abspielen von Musik oder abgespeicherten Tönen. Es integriert einen Steckplatz für eine Mikro-SD-Karte (bis maximal 8GB), auf der Musikdateien im mp3-, wav- oder wma-Format gespeichert werden können. Am eingebauten Klinkenstecker kann ein Lautsprecher oder Kopfhörer angeschlossen werden, um die Musik auszugeben.
 
 Das Modul wird über die serielle Schnittstelle UART direkt
@@ -17,9 +19,9 @@ Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourscho
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-MP3_v2.0/)
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/mp3-modul/)
 
