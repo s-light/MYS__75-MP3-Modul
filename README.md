@@ -2,7 +2,7 @@ MP3-Modul
 ----
 *(Seeed Studio Grove – Grove - MP3 v2.0)*
 
-<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/75_mp3_modul-1024x1024.jpg width=400px>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/mys_mk_75-1024x1024.jpg width=400px>
 
 Bildquelle: *Wissenschaft im Dialog*
 
